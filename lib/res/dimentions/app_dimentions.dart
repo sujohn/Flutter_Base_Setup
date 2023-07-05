@@ -1,4 +1,4 @@
-import 'package:quran_app/res/dimentions/dimentions.dart';
+import 'package:flutter_base_setup/res/dimentions/dimentions.dart';
 
 class AppDimentions extends Dimentions {
   @override

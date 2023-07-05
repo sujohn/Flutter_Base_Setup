@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/src/material/colors.dart';
-import 'package:quran_app/res/colors/base_colors.dart';
+import 'package:flutter_base_setup/res/colors/base_colors.dart';
 
 class AppColors extends BaseColors {
 
